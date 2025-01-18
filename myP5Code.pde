@@ -11,25 +11,29 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
+//Bottom Bread Bun 
 fill(225, 151, 44 )  
 ellipse(200,290,173,80); 
+//Burger
 fill(111, 70, 7 ,)
 ellipse(200,275,186,80);
+//Lettuce 1
 fill(100, 186, 78, )
 ellipse(200,260,203,80,); 
 fill(236, 198, 58,)
 triangle(149,245,238,240,201,313,0); 
 fill(111, 70, 7,)
 ellipse(200,250,195,80,)
+//Tomato
 fill(240, 93, 29,)
-ellipse(200,240,183,80,)
+ellipse(200,240,183,80,) 
 fill(236, 198, 58,)
 triangle(148,219,242,215,204,290)
 fill(109, 203, 85, )
 ellipse(200,230,200,80)
 fill(225, 151, 44 )
 ellipse(200,215,210,80)
-fill(225, 151, 44 )
+fill(225, 151, 44 ) 
 arc(199,220,209,190, radians(180), radians(360))  
 fill(243, 243, 243 )
 ellipse(165,215,33,33)
@@ -37,6 +41,7 @@ fill(243, 243, 243 )
 ellipse(235,215,33,33)
 fill(0, 0, 0 )
 ellipse(165,215,15,15)
+//Top Bread Bun
 fill(0, 0, 0 )
 ellipse(235,215,15,15)
 stroke(0,0,0)
